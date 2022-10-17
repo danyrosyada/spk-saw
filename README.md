@@ -1,6 +1,8 @@
 # SPK Pemilihan Karawan Terbaik dengan Metode SAW
 Sistem Pendukung Keputusan Pemilihan Karyawan Terbaik Menggunakan Metode SAW framework CI
 
+
+ini sudah di edit
 ### Kebutuhan Fungsional
 1.	Sistem dapat mengelola data karyawan / alternatif
 2.	Sistem dapat mengelola data kriteria dan pembobotan
