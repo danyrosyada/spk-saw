@@ -1,4 +1,4 @@
-<mxfile host="65bd71144e">
+<mxfile host="65bd71144e" pages="2">
     <diagram id="N-mbzDKoCQziujSW3M41" name="usecase">
         <mxGraphModel dx="818" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
@@ -86,7 +86,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="pure5XOxEh8f3SVf0IJs" name="wireframe">
-        <mxGraphModel dx="4186" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2518" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="ixNeJHoCXLPAVX-NawHq-0"/>
                 <mxCell id="ixNeJHoCXLPAVX-NawHq-1" parent="ixNeJHoCXLPAVX-NawHq-0"/>
@@ -875,21 +875,6 @@
                 </mxCell>
                 <mxCell id="WSOr3FJV8iaRRvK454H2-507" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Paijo&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Nunito Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito%2BSans;fontSize=9;" parent="WSOr3FJV8iaRRvK454H2-487" vertex="1">
                     <mxGeometry x="79.64760806916426" y="100.42402826855123" width="155.83227665706056" height="51.94346289752651" as="geometry"/>
-                </mxCell>
-                <mxCell id="WSOr3FJV8iaRRvK454H2-679" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Karyawan Teladan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Nunito Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito%2BSans;fontSize=9;" parent="ixNeJHoCXLPAVX-NawHq-1" vertex="1">
-                    <mxGeometry x="-1950" y="4730" width="106" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="WSOr3FJV8iaRRvK454H2-680" value="" style="group" parent="ixNeJHoCXLPAVX-NawHq-1" connectable="0" vertex="1">
-                    <mxGeometry x="-1807.38" y="4730" width="120" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="WSOr3FJV8iaRRvK454H2-681" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000B14;strokeWidth=1;fontFamily=Nunito Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito%2BSans;fontSize=9;fillColor=none;gradientColor=none;" parent="WSOr3FJV8iaRRvK454H2-680" vertex="1">
-                    <mxGeometry y="5" width="120" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="WSOr3FJV8iaRRvK454H2-682" value="Pilih Periode&amp;nbsp; Bulan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Nunito Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito%2BSans;fontSize=9;" parent="WSOr3FJV8iaRRvK454H2-680" vertex="1">
-                    <mxGeometry width="90" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="WSOr3FJV8iaRRvK454H2-683" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#0E1319;strokeWidth=1;fontFamily=Nunito Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito%2BSans;fontSize=15;fillColor=#050505;rotation=90;" parent="WSOr3FJV8iaRRvK454H2-680" vertex="1">
-                    <mxGeometry x="105" y="11" width="7.5" height="10" as="geometry"/>
                 </mxCell>
                 <mxCell id="WSOr3FJV8iaRRvK454H2-968" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="ixNeJHoCXLPAVX-NawHq-1" vertex="1">
                     <mxGeometry x="-1100" y="2670" width="1060" height="810" as="geometry"/>
