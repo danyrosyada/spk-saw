@@ -37,6 +37,31 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
+$routes->get('/karyawan', 'Karyawan::index');
+$routes->get('/karyawan/add', 'Karyawan::add');
+$routes->post('/karyawan/simpan', 'Karyawan::simpan');
+$routes->post('/karyawan/update/(:num)', 'Karyawan::update/$1');
+$routes->get('/karyawan/ubah/(:num)', 'Karyawan::ubah/$1');
+$routes->delete('/karyawan/(:num)', 'Karyawan::hapus/$1');
+
+$routes->get('/kriteria', 'Kriteria::index');
+$routes->get('/kriteria/add', 'Kriteria::add');
+$routes->post('/kriteria/simpan', 'Kriteria::simpan');
+$routes->post('/kriteria/update/(:num)', 'Kriteria::update/$1');
+$routes->get('/kriteria/ubah/(:num)', 'Kriteria::ubah/$1');
+$routes->delete('/kriteria/(:num)', 'Kriteria::hapus/$1');
+
+$routes->get('/periode', 'Periode::index');
+$routes->get('/periode/add', 'Periode::add');
+$routes->post('/periode/simpan', 'Periode::simpan');
+$routes->post('/periode/update/(:num)', 'Periode::update/$1');
+$routes->get('/periode/ubah/(:num)', 'Periode::ubah/$1');
+$routes->delete('/periode/(:num)', 'Periode::hapus/$1');
+
+$routes->get('/kriteriaperiode', 'KriteriaPeriode::index');
+$routes->get('/penilaian', 'Penilaian::index');
+$routes->get('/laporan', 'Laporan::index');
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing
